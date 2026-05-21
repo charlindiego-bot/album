@@ -1,4 +1,4 @@
-import ProgressCard from "@/components/ProgressCard"
+import ProgressCard from "../components/ProgressCard"
 import { Book, Repeat, CircleDashed } from "lucide-react"
 
 export default function Home(){
