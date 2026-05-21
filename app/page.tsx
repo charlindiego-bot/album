@@ -42,7 +42,7 @@ return(
 
 <p className="text-zinc-400 mt-2">
 
-Meu álbum de figurinhas
+Album do Matheus Charlin
 
 </p>
 
