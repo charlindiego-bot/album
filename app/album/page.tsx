@@ -246,7 +246,7 @@ items-center">
 <h3 className="font-bold flex items-center gap-2">
 
 <span>
-{bandeiras[item.pais] || "🏳️"}
+{item.pais && bandeiras[item.pais] ? bandeiras[item.pais] : "🏳️"}
 </span>
 
 <span>
