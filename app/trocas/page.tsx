@@ -11,6 +11,46 @@ const repetidas = figurinhas.filter(
 fig => fig.quantidade > 1
 );
 
+const compartilharWhatsApp = () => {
+
+if(repetidas.length===0){
+
+alert(
+"Nenhuma figurinha repetida"
+);
+
+return;
+
+}
+
+const mensagem = `⚽ Minhas figurinhas repetidas Copa 2026:\n\n${
+repetidas
+.map(item=>
+
+`${item.codigo} x${item.quantidade-1}`
+
+)
+.join("\n")
+}
+
+\n\nTroca comigo 😀`;
+
+const url=
+
+`https://wa.me/?text=${
+encodeURIComponent(
+mensagem
+)
+}`;
+
+window.open(
+url,
+"_blank"
+);
+
+};
+
+
 return(
 
 <div className="min-h-screen bg-black text-white p-6 pb-28">
@@ -22,6 +62,22 @@ return(
 <p className="text-zinc-400 mt-2">
 Suas figurinhas repetidas
 </p>
+
+<button
+onClick={
+compartilharWhatsApp
+}
+className="
+mt-4
+bg-green-500
+px-4
+py-3
+rounded-xl
+font-bold">
+
+📤 Compartilhar no WhatsApp
+
+</button>
 
 <div className="mt-6 space-y-4">
 
