@@ -1,0 +1,986 @@
+codigo,nome,pais,grupo,categoria
+MEX01,México,MEX,A,Seleção
+MEX02,México,MEX,A,Seleção
+MEX03,México,MEX,A,Seleção
+MEX04,México,MEX,A,Seleção
+MEX05,México,MEX,A,Seleção
+MEX06,México,MEX,A,Seleção
+MEX07,México,MEX,A,Seleção
+MEX08,México,MEX,A,Seleção
+MEX09,México,MEX,A,Seleção
+MEX10,México,MEX,A,Seleção
+MEX11,México,MEX,A,Seleção
+MEX12,México,MEX,A,Seleção
+MEX13,México,MEX,A,Seleção
+MEX14,México,MEX,A,Seleção
+MEX15,México,MEX,A,Seleção
+MEX16,México,MEX,A,Seleção
+MEX17,México,MEX,A,Seleção
+MEX18,México,MEX,A,Seleção
+MEX19,México,MEX,A,Seleção
+MEX20,México,MEX,A,Seleção
+RSA01,África do Sul,RSA,A,Seleção
+RSA02,África do Sul,RSA,A,Seleção
+RSA03,África do Sul,RSA,A,Seleção
+RSA04,África do Sul,RSA,A,Seleção
+RSA05,África do Sul,RSA,A,Seleção
+RSA06,África do Sul,RSA,A,Seleção
+RSA07,África do Sul,RSA,A,Seleção
+RSA08,África do Sul,RSA,A,Seleção
+RSA09,África do Sul,RSA,A,Seleção
+RSA10,África do Sul,RSA,A,Seleção
+RSA11,África do Sul,RSA,A,Seleção
+RSA12,África do Sul,RSA,A,Seleção
+RSA13,África do Sul,RSA,A,Seleção
+RSA14,África do Sul,RSA,A,Seleção
+RSA15,África do Sul,RSA,A,Seleção
+RSA16,África do Sul,RSA,A,Seleção
+RSA17,África do Sul,RSA,A,Seleção
+RSA18,África do Sul,RSA,A,Seleção
+RSA19,África do Sul,RSA,A,Seleção
+RSA20,África do Sul,RSA,A,Seleção
+KOR01,Coreia do Sul,KOR,A,Seleção
+KOR02,Coreia do Sul,KOR,A,Seleção
+KOR03,Coreia do Sul,KOR,A,Seleção
+KOR04,Coreia do Sul,KOR,A,Seleção
+KOR05,Coreia do Sul,KOR,A,Seleção
+KOR06,Coreia do Sul,KOR,A,Seleção
+KOR07,Coreia do Sul,KOR,A,Seleção
+KOR08,Coreia do Sul,KOR,A,Seleção
+KOR09,Coreia do Sul,KOR,A,Seleção
+KOR10,Coreia do Sul,KOR,A,Seleção
+KOR11,Coreia do Sul,KOR,A,Seleção
+KOR12,Coreia do Sul,KOR,A,Seleção
+KOR13,Coreia do Sul,KOR,A,Seleção
+KOR14,Coreia do Sul,KOR,A,Seleção
+KOR15,Coreia do Sul,KOR,A,Seleção
+KOR16,Coreia do Sul,KOR,A,Seleção
+KOR17,Coreia do Sul,KOR,A,Seleção
+KOR18,Coreia do Sul,KOR,A,Seleção
+KOR19,Coreia do Sul,KOR,A,Seleção
+KOR20,Coreia do Sul,KOR,A,Seleção
+CZE01,Rep. Tcheca,CZE,A,Seleção
+CZE02,Rep. Tcheca,CZE,A,Seleção
+CZE03,Rep. Tcheca,CZE,A,Seleção
+CZE04,Rep. Tcheca,CZE,A,Seleção
+CZE05,Rep. Tcheca,CZE,A,Seleção
+CZE06,Rep. Tcheca,CZE,A,Seleção
+CZE07,Rep. Tcheca,CZE,A,Seleção
+CZE08,Rep. Tcheca,CZE,A,Seleção
+CZE09,Rep. Tcheca,CZE,A,Seleção
+CZE10,Rep. Tcheca,CZE,A,Seleção
+CZE11,Rep. Tcheca,CZE,A,Seleção
+CZE12,Rep. Tcheca,CZE,A,Seleção
+CZE13,Rep. Tcheca,CZE,A,Seleção
+CZE14,Rep. Tcheca,CZE,A,Seleção
+CZE15,Rep. Tcheca,CZE,A,Seleção
+CZE16,Rep. Tcheca,CZE,A,Seleção
+CZE17,Rep. Tcheca,CZE,A,Seleção
+CZE18,Rep. Tcheca,CZE,A,Seleção
+CZE19,Rep. Tcheca,CZE,A,Seleção
+CZE20,Rep. Tcheca,CZE,A,Seleção
+CAN01,Canadá,CAN,B,Seleção
+CAN02,Canadá,CAN,B,Seleção
+CAN03,Canadá,CAN,B,Seleção
+CAN04,Canadá,CAN,B,Seleção
+CAN05,Canadá,CAN,B,Seleção
+CAN06,Canadá,CAN,B,Seleção
+CAN07,Canadá,CAN,B,Seleção
+CAN08,Canadá,CAN,B,Seleção
+CAN09,Canadá,CAN,B,Seleção
+CAN10,Canadá,CAN,B,Seleção
+CAN11,Canadá,CAN,B,Seleção
+CAN12,Canadá,CAN,B,Seleção
+CAN13,Canadá,CAN,B,Seleção
+CAN14,Canadá,CAN,B,Seleção
+CAN15,Canadá,CAN,B,Seleção
+CAN16,Canadá,CAN,B,Seleção
+CAN17,Canadá,CAN,B,Seleção
+CAN18,Canadá,CAN,B,Seleção
+CAN19,Canadá,CAN,B,Seleção
+CAN20,Canadá,CAN,B,Seleção
+BIH01,Bósnia,BIH,B,Seleção
+BIH02,Bósnia,BIH,B,Seleção
+BIH03,Bósnia,BIH,B,Seleção
+BIH04,Bósnia,BIH,B,Seleção
+BIH05,Bósnia,BIH,B,Seleção
+BIH06,Bósnia,BIH,B,Seleção
+BIH07,Bósnia,BIH,B,Seleção
+BIH08,Bósnia,BIH,B,Seleção
+BIH09,Bósnia,BIH,B,Seleção
+BIH10,Bósnia,BIH,B,Seleção
+BIH11,Bósnia,BIH,B,Seleção
+BIH12,Bósnia,BIH,B,Seleção
+BIH13,Bósnia,BIH,B,Seleção
+BIH14,Bósnia,BIH,B,Seleção
+BIH15,Bósnia,BIH,B,Seleção
+BIH16,Bósnia,BIH,B,Seleção
+BIH17,Bósnia,BIH,B,Seleção
+BIH18,Bósnia,BIH,B,Seleção
+BIH19,Bósnia,BIH,B,Seleção
+BIH20,Bósnia,BIH,B,Seleção
+QAT01,Catar,QAT,B,Seleção
+QAT02,Catar,QAT,B,Seleção
+QAT03,Catar,QAT,B,Seleção
+QAT04,Catar,QAT,B,Seleção
+QAT05,Catar,QAT,B,Seleção
+QAT06,Catar,QAT,B,Seleção
+QAT07,Catar,QAT,B,Seleção
+QAT08,Catar,QAT,B,Seleção
+QAT09,Catar,QAT,B,Seleção
+QAT10,Catar,QAT,B,Seleção
+QAT11,Catar,QAT,B,Seleção
+QAT12,Catar,QAT,B,Seleção
+QAT13,Catar,QAT,B,Seleção
+QAT14,Catar,QAT,B,Seleção
+QAT15,Catar,QAT,B,Seleção
+QAT16,Catar,QAT,B,Seleção
+QAT17,Catar,QAT,B,Seleção
+QAT18,Catar,QAT,B,Seleção
+QAT19,Catar,QAT,B,Seleção
+QAT20,Catar,QAT,B,Seleção
+SUI01,Suíça,SUI,B,Seleção
+SUI02,Suíça,SUI,B,Seleção
+SUI03,Suíça,SUI,B,Seleção
+SUI04,Suíça,SUI,B,Seleção
+SUI05,Suíça,SUI,B,Seleção
+SUI06,Suíça,SUI,B,Seleção
+SUI07,Suíça,SUI,B,Seleção
+SUI08,Suíça,SUI,B,Seleção
+SUI09,Suíça,SUI,B,Seleção
+SUI10,Suíça,SUI,B,Seleção
+SUI11,Suíça,SUI,B,Seleção
+SUI12,Suíça,SUI,B,Seleção
+SUI13,Suíça,SUI,B,Seleção
+SUI14,Suíça,SUI,B,Seleção
+SUI15,Suíça,SUI,B,Seleção
+SUI16,Suíça,SUI,B,Seleção
+SUI17,Suíça,SUI,B,Seleção
+SUI18,Suíça,SUI,B,Seleção
+SUI19,Suíça,SUI,B,Seleção
+SUI20,Suíça,SUI,B,Seleção
+BRA01,Brasil,BRA,C,Seleção
+BRA02,Brasil,BRA,C,Seleção
+BRA03,Brasil,BRA,C,Seleção
+BRA04,Brasil,BRA,C,Seleção
+BRA05,Brasil,BRA,C,Seleção
+BRA06,Brasil,BRA,C,Seleção
+BRA07,Brasil,BRA,C,Seleção
+BRA08,Brasil,BRA,C,Seleção
+BRA09,Brasil,BRA,C,Seleção
+BRA10,Brasil,BRA,C,Seleção
+BRA11,Brasil,BRA,C,Seleção
+BRA12,Brasil,BRA,C,Seleção
+BRA13,Brasil,BRA,C,Seleção
+BRA14,Brasil,BRA,C,Seleção
+BRA15,Brasil,BRA,C,Seleção
+BRA16,Brasil,BRA,C,Seleção
+BRA17,Brasil,BRA,C,Seleção
+BRA18,Brasil,BRA,C,Seleção
+BRA19,Brasil,BRA,C,Seleção
+BRA20,Brasil,BRA,C,Seleção
+MAR01,Marrocos,MAR,C,Seleção
+MAR02,Marrocos,MAR,C,Seleção
+MAR03,Marrocos,MAR,C,Seleção
+MAR04,Marrocos,MAR,C,Seleção
+MAR05,Marrocos,MAR,C,Seleção
+MAR06,Marrocos,MAR,C,Seleção
+MAR07,Marrocos,MAR,C,Seleção
+MAR08,Marrocos,MAR,C,Seleção
+MAR09,Marrocos,MAR,C,Seleção
+MAR10,Marrocos,MAR,C,Seleção
+MAR11,Marrocos,MAR,C,Seleção
+MAR12,Marrocos,MAR,C,Seleção
+MAR13,Marrocos,MAR,C,Seleção
+MAR14,Marrocos,MAR,C,Seleção
+MAR15,Marrocos,MAR,C,Seleção
+MAR16,Marrocos,MAR,C,Seleção
+MAR17,Marrocos,MAR,C,Seleção
+MAR18,Marrocos,MAR,C,Seleção
+MAR19,Marrocos,MAR,C,Seleção
+MAR20,Marrocos,MAR,C,Seleção
+HAI01,Haiti,HAI,C,Seleção
+HAI02,Haiti,HAI,C,Seleção
+HAI03,Haiti,HAI,C,Seleção
+HAI04,Haiti,HAI,C,Seleção
+HAI05,Haiti,HAI,C,Seleção
+HAI06,Haiti,HAI,C,Seleção
+HAI07,Haiti,HAI,C,Seleção
+HAI08,Haiti,HAI,C,Seleção
+HAI09,Haiti,HAI,C,Seleção
+HAI10,Haiti,HAI,C,Seleção
+HAI11,Haiti,HAI,C,Seleção
+HAI12,Haiti,HAI,C,Seleção
+HAI13,Haiti,HAI,C,Seleção
+HAI14,Haiti,HAI,C,Seleção
+HAI15,Haiti,HAI,C,Seleção
+HAI16,Haiti,HAI,C,Seleção
+HAI17,Haiti,HAI,C,Seleção
+HAI18,Haiti,HAI,C,Seleção
+HAI19,Haiti,HAI,C,Seleção
+HAI20,Haiti,HAI,C,Seleção
+SCO01,Escócia,SCO,C,Seleção
+SCO02,Escócia,SCO,C,Seleção
+SCO03,Escócia,SCO,C,Seleção
+SCO04,Escócia,SCO,C,Seleção
+SCO05,Escócia,SCO,C,Seleção
+SCO06,Escócia,SCO,C,Seleção
+SCO07,Escócia,SCO,C,Seleção
+SCO08,Escócia,SCO,C,Seleção
+SCO09,Escócia,SCO,C,Seleção
+SCO10,Escócia,SCO,C,Seleção
+SCO11,Escócia,SCO,C,Seleção
+SCO12,Escócia,SCO,C,Seleção
+SCO13,Escócia,SCO,C,Seleção
+SCO14,Escócia,SCO,C,Seleção
+SCO15,Escócia,SCO,C,Seleção
+SCO16,Escócia,SCO,C,Seleção
+SCO17,Escócia,SCO,C,Seleção
+SCO18,Escócia,SCO,C,Seleção
+SCO19,Escócia,SCO,C,Seleção
+SCO20,Escócia,SCO,C,Seleção
+USA01,Estados Unidos,USA,D,Seleção
+USA02,Estados Unidos,USA,D,Seleção
+USA03,Estados Unidos,USA,D,Seleção
+USA04,Estados Unidos,USA,D,Seleção
+USA05,Estados Unidos,USA,D,Seleção
+USA06,Estados Unidos,USA,D,Seleção
+USA07,Estados Unidos,USA,D,Seleção
+USA08,Estados Unidos,USA,D,Seleção
+USA09,Estados Unidos,USA,D,Seleção
+USA10,Estados Unidos,USA,D,Seleção
+USA11,Estados Unidos,USA,D,Seleção
+USA12,Estados Unidos,USA,D,Seleção
+USA13,Estados Unidos,USA,D,Seleção
+USA14,Estados Unidos,USA,D,Seleção
+USA15,Estados Unidos,USA,D,Seleção
+USA16,Estados Unidos,USA,D,Seleção
+USA17,Estados Unidos,USA,D,Seleção
+USA18,Estados Unidos,USA,D,Seleção
+USA19,Estados Unidos,USA,D,Seleção
+USA20,Estados Unidos,USA,D,Seleção
+PAR01,Paraguai,PAR,D,Seleção
+PAR02,Paraguai,PAR,D,Seleção
+PAR03,Paraguai,PAR,D,Seleção
+PAR04,Paraguai,PAR,D,Seleção
+PAR05,Paraguai,PAR,D,Seleção
+PAR06,Paraguai,PAR,D,Seleção
+PAR07,Paraguai,PAR,D,Seleção
+PAR08,Paraguai,PAR,D,Seleção
+PAR09,Paraguai,PAR,D,Seleção
+PAR10,Paraguai,PAR,D,Seleção
+PAR11,Paraguai,PAR,D,Seleção
+PAR12,Paraguai,PAR,D,Seleção
+PAR13,Paraguai,PAR,D,Seleção
+PAR14,Paraguai,PAR,D,Seleção
+PAR15,Paraguai,PAR,D,Seleção
+PAR16,Paraguai,PAR,D,Seleção
+PAR17,Paraguai,PAR,D,Seleção
+PAR18,Paraguai,PAR,D,Seleção
+PAR19,Paraguai,PAR,D,Seleção
+PAR20,Paraguai,PAR,D,Seleção
+AUS01,Austrália,AUS,D,Seleção
+AUS02,Austrália,AUS,D,Seleção
+AUS03,Austrália,AUS,D,Seleção
+AUS04,Austrália,AUS,D,Seleção
+AUS05,Austrália,AUS,D,Seleção
+AUS06,Austrália,AUS,D,Seleção
+AUS07,Austrália,AUS,D,Seleção
+AUS08,Austrália,AUS,D,Seleção
+AUS09,Austrália,AUS,D,Seleção
+AUS10,Austrália,AUS,D,Seleção
+AUS11,Austrália,AUS,D,Seleção
+AUS12,Austrália,AUS,D,Seleção
+AUS13,Austrália,AUS,D,Seleção
+AUS14,Austrália,AUS,D,Seleção
+AUS15,Austrália,AUS,D,Seleção
+AUS16,Austrália,AUS,D,Seleção
+AUS17,Austrália,AUS,D,Seleção
+AUS18,Austrália,AUS,D,Seleção
+AUS19,Austrália,AUS,D,Seleção
+AUS20,Austrália,AUS,D,Seleção
+TUR01,Turquia,TUR,D,Seleção
+TUR02,Turquia,TUR,D,Seleção
+TUR03,Turquia,TUR,D,Seleção
+TUR04,Turquia,TUR,D,Seleção
+TUR05,Turquia,TUR,D,Seleção
+TUR06,Turquia,TUR,D,Seleção
+TUR07,Turquia,TUR,D,Seleção
+TUR08,Turquia,TUR,D,Seleção
+TUR09,Turquia,TUR,D,Seleção
+TUR10,Turquia,TUR,D,Seleção
+TUR11,Turquia,TUR,D,Seleção
+TUR12,Turquia,TUR,D,Seleção
+TUR13,Turquia,TUR,D,Seleção
+TUR14,Turquia,TUR,D,Seleção
+TUR15,Turquia,TUR,D,Seleção
+TUR16,Turquia,TUR,D,Seleção
+TUR17,Turquia,TUR,D,Seleção
+TUR18,Turquia,TUR,D,Seleção
+TUR19,Turquia,TUR,D,Seleção
+TUR20,Turquia,TUR,D,Seleção
+GER01,Alemanha,GER,E,Seleção
+GER02,Alemanha,GER,E,Seleção
+GER03,Alemanha,GER,E,Seleção
+GER04,Alemanha,GER,E,Seleção
+GER05,Alemanha,GER,E,Seleção
+GER06,Alemanha,GER,E,Seleção
+GER07,Alemanha,GER,E,Seleção
+GER08,Alemanha,GER,E,Seleção
+GER09,Alemanha,GER,E,Seleção
+GER10,Alemanha,GER,E,Seleção
+GER11,Alemanha,GER,E,Seleção
+GER12,Alemanha,GER,E,Seleção
+GER13,Alemanha,GER,E,Seleção
+GER14,Alemanha,GER,E,Seleção
+GER15,Alemanha,GER,E,Seleção
+GER16,Alemanha,GER,E,Seleção
+GER17,Alemanha,GER,E,Seleção
+GER18,Alemanha,GER,E,Seleção
+GER19,Alemanha,GER,E,Seleção
+GER20,Alemanha,GER,E,Seleção
+CUW01,Curaçao,CUW,E,Seleção
+CUW02,Curaçao,CUW,E,Seleção
+CUW03,Curaçao,CUW,E,Seleção
+CUW04,Curaçao,CUW,E,Seleção
+CUW05,Curaçao,CUW,E,Seleção
+CUW06,Curaçao,CUW,E,Seleção
+CUW07,Curaçao,CUW,E,Seleção
+CUW08,Curaçao,CUW,E,Seleção
+CUW09,Curaçao,CUW,E,Seleção
+CUW10,Curaçao,CUW,E,Seleção
+CUW11,Curaçao,CUW,E,Seleção
+CUW12,Curaçao,CUW,E,Seleção
+CUW13,Curaçao,CUW,E,Seleção
+CUW14,Curaçao,CUW,E,Seleção
+CUW15,Curaçao,CUW,E,Seleção
+CUW16,Curaçao,CUW,E,Seleção
+CUW17,Curaçao,CUW,E,Seleção
+CUW18,Curaçao,CUW,E,Seleção
+CUW19,Curaçao,CUW,E,Seleção
+CUW20,Curaçao,CUW,E,Seleção
+CIV01,Costa do Marfim,CIV,E,Seleção
+CIV02,Costa do Marfim,CIV,E,Seleção
+CIV03,Costa do Marfim,CIV,E,Seleção
+CIV04,Costa do Marfim,CIV,E,Seleção
+CIV05,Costa do Marfim,CIV,E,Seleção
+CIV06,Costa do Marfim,CIV,E,Seleção
+CIV07,Costa do Marfim,CIV,E,Seleção
+CIV08,Costa do Marfim,CIV,E,Seleção
+CIV09,Costa do Marfim,CIV,E,Seleção
+CIV10,Costa do Marfim,CIV,E,Seleção
+CIV11,Costa do Marfim,CIV,E,Seleção
+CIV12,Costa do Marfim,CIV,E,Seleção
+CIV13,Costa do Marfim,CIV,E,Seleção
+CIV14,Costa do Marfim,CIV,E,Seleção
+CIV15,Costa do Marfim,CIV,E,Seleção
+CIV16,Costa do Marfim,CIV,E,Seleção
+CIV17,Costa do Marfim,CIV,E,Seleção
+CIV18,Costa do Marfim,CIV,E,Seleção
+CIV19,Costa do Marfim,CIV,E,Seleção
+CIV20,Costa do Marfim,CIV,E,Seleção
+ECU01,Equador,ECU,E,Seleção
+ECU02,Equador,ECU,E,Seleção
+ECU03,Equador,ECU,E,Seleção
+ECU04,Equador,ECU,E,Seleção
+ECU05,Equador,ECU,E,Seleção
+ECU06,Equador,ECU,E,Seleção
+ECU07,Equador,ECU,E,Seleção
+ECU08,Equador,ECU,E,Seleção
+ECU09,Equador,ECU,E,Seleção
+ECU10,Equador,ECU,E,Seleção
+ECU11,Equador,ECU,E,Seleção
+ECU12,Equador,ECU,E,Seleção
+ECU13,Equador,ECU,E,Seleção
+ECU14,Equador,ECU,E,Seleção
+ECU15,Equador,ECU,E,Seleção
+ECU16,Equador,ECU,E,Seleção
+ECU17,Equador,ECU,E,Seleção
+ECU18,Equador,ECU,E,Seleção
+ECU19,Equador,ECU,E,Seleção
+ECU20,Equador,ECU,E,Seleção
+NED01,Holanda,NED,F,Seleção
+NED02,Holanda,NED,F,Seleção
+NED03,Holanda,NED,F,Seleção
+NED04,Holanda,NED,F,Seleção
+NED05,Holanda,NED,F,Seleção
+NED06,Holanda,NED,F,Seleção
+NED07,Holanda,NED,F,Seleção
+NED08,Holanda,NED,F,Seleção
+NED09,Holanda,NED,F,Seleção
+NED10,Holanda,NED,F,Seleção
+NED11,Holanda,NED,F,Seleção
+NED12,Holanda,NED,F,Seleção
+NED13,Holanda,NED,F,Seleção
+NED14,Holanda,NED,F,Seleção
+NED15,Holanda,NED,F,Seleção
+NED16,Holanda,NED,F,Seleção
+NED17,Holanda,NED,F,Seleção
+NED18,Holanda,NED,F,Seleção
+NED19,Holanda,NED,F,Seleção
+NED20,Holanda,NED,F,Seleção
+JPN01,Japão,JPN,F,Seleção
+JPN02,Japão,JPN,F,Seleção
+JPN03,Japão,JPN,F,Seleção
+JPN04,Japão,JPN,F,Seleção
+JPN05,Japão,JPN,F,Seleção
+JPN06,Japão,JPN,F,Seleção
+JPN07,Japão,JPN,F,Seleção
+JPN08,Japão,JPN,F,Seleção
+JPN09,Japão,JPN,F,Seleção
+JPN10,Japão,JPN,F,Seleção
+JPN11,Japão,JPN,F,Seleção
+JPN12,Japão,JPN,F,Seleção
+JPN13,Japão,JPN,F,Seleção
+JPN14,Japão,JPN,F,Seleção
+JPN15,Japão,JPN,F,Seleção
+JPN16,Japão,JPN,F,Seleção
+JPN17,Japão,JPN,F,Seleção
+JPN18,Japão,JPN,F,Seleção
+JPN19,Japão,JPN,F,Seleção
+JPN20,Japão,JPN,F,Seleção
+SWE01,Suécia,SWE,F,Seleção
+SWE02,Suécia,SWE,F,Seleção
+SWE03,Suécia,SWE,F,Seleção
+SWE04,Suécia,SWE,F,Seleção
+SWE05,Suécia,SWE,F,Seleção
+SWE06,Suécia,SWE,F,Seleção
+SWE07,Suécia,SWE,F,Seleção
+SWE08,Suécia,SWE,F,Seleção
+SWE09,Suécia,SWE,F,Seleção
+SWE10,Suécia,SWE,F,Seleção
+SWE11,Suécia,SWE,F,Seleção
+SWE12,Suécia,SWE,F,Seleção
+SWE13,Suécia,SWE,F,Seleção
+SWE14,Suécia,SWE,F,Seleção
+SWE15,Suécia,SWE,F,Seleção
+SWE16,Suécia,SWE,F,Seleção
+SWE17,Suécia,SWE,F,Seleção
+SWE18,Suécia,SWE,F,Seleção
+SWE19,Suécia,SWE,F,Seleção
+SWE20,Suécia,SWE,F,Seleção
+TUN01,Tunísia,TUN,F,Seleção
+TUN02,Tunísia,TUN,F,Seleção
+TUN03,Tunísia,TUN,F,Seleção
+TUN04,Tunísia,TUN,F,Seleção
+TUN05,Tunísia,TUN,F,Seleção
+TUN06,Tunísia,TUN,F,Seleção
+TUN07,Tunísia,TUN,F,Seleção
+TUN08,Tunísia,TUN,F,Seleção
+TUN09,Tunísia,TUN,F,Seleção
+TUN10,Tunísia,TUN,F,Seleção
+TUN11,Tunísia,TUN,F,Seleção
+TUN12,Tunísia,TUN,F,Seleção
+TUN13,Tunísia,TUN,F,Seleção
+TUN14,Tunísia,TUN,F,Seleção
+TUN15,Tunísia,TUN,F,Seleção
+TUN16,Tunísia,TUN,F,Seleção
+TUN17,Tunísia,TUN,F,Seleção
+TUN18,Tunísia,TUN,F,Seleção
+TUN19,Tunísia,TUN,F,Seleção
+TUN20,Tunísia,TUN,F,Seleção
+BEL01,Bélgica,BEL,G,Seleção
+BEL02,Bélgica,BEL,G,Seleção
+BEL03,Bélgica,BEL,G,Seleção
+BEL04,Bélgica,BEL,G,Seleção
+BEL05,Bélgica,BEL,G,Seleção
+BEL06,Bélgica,BEL,G,Seleção
+BEL07,Bélgica,BEL,G,Seleção
+BEL08,Bélgica,BEL,G,Seleção
+BEL09,Bélgica,BEL,G,Seleção
+BEL10,Bélgica,BEL,G,Seleção
+BEL11,Bélgica,BEL,G,Seleção
+BEL12,Bélgica,BEL,G,Seleção
+BEL13,Bélgica,BEL,G,Seleção
+BEL14,Bélgica,BEL,G,Seleção
+BEL15,Bélgica,BEL,G,Seleção
+BEL16,Bélgica,BEL,G,Seleção
+BEL17,Bélgica,BEL,G,Seleção
+BEL18,Bélgica,BEL,G,Seleção
+BEL19,Bélgica,BEL,G,Seleção
+BEL20,Bélgica,BEL,G,Seleção
+EGY01,Egito,EGY,G,Seleção
+EGY02,Egito,EGY,G,Seleção
+EGY03,Egito,EGY,G,Seleção
+EGY04,Egito,EGY,G,Seleção
+EGY05,Egito,EGY,G,Seleção
+EGY06,Egito,EGY,G,Seleção
+EGY07,Egito,EGY,G,Seleção
+EGY08,Egito,EGY,G,Seleção
+EGY09,Egito,EGY,G,Seleção
+EGY10,Egito,EGY,G,Seleção
+EGY11,Egito,EGY,G,Seleção
+EGY12,Egito,EGY,G,Seleção
+EGY13,Egito,EGY,G,Seleção
+EGY14,Egito,EGY,G,Seleção
+EGY15,Egito,EGY,G,Seleção
+EGY16,Egito,EGY,G,Seleção
+EGY17,Egito,EGY,G,Seleção
+EGY18,Egito,EGY,G,Seleção
+EGY19,Egito,EGY,G,Seleção
+EGY20,Egito,EGY,G,Seleção
+IRN01,Irã,IRN,G,Seleção
+IRN02,Irã,IRN,G,Seleção
+IRN03,Irã,IRN,G,Seleção
+IRN04,Irã,IRN,G,Seleção
+IRN05,Irã,IRN,G,Seleção
+IRN06,Irã,IRN,G,Seleção
+IRN07,Irã,IRN,G,Seleção
+IRN08,Irã,IRN,G,Seleção
+IRN09,Irã,IRN,G,Seleção
+IRN10,Irã,IRN,G,Seleção
+IRN11,Irã,IRN,G,Seleção
+IRN12,Irã,IRN,G,Seleção
+IRN13,Irã,IRN,G,Seleção
+IRN14,Irã,IRN,G,Seleção
+IRN15,Irã,IRN,G,Seleção
+IRN16,Irã,IRN,G,Seleção
+IRN17,Irã,IRN,G,Seleção
+IRN18,Irã,IRN,G,Seleção
+IRN19,Irã,IRN,G,Seleção
+IRN20,Irã,IRN,G,Seleção
+NZL01,Nova Zelândia,NZL,G,Seleção
+NZL02,Nova Zelândia,NZL,G,Seleção
+NZL03,Nova Zelândia,NZL,G,Seleção
+NZL04,Nova Zelândia,NZL,G,Seleção
+NZL05,Nova Zelândia,NZL,G,Seleção
+NZL06,Nova Zelândia,NZL,G,Seleção
+NZL07,Nova Zelândia,NZL,G,Seleção
+NZL08,Nova Zelândia,NZL,G,Seleção
+NZL09,Nova Zelândia,NZL,G,Seleção
+NZL10,Nova Zelândia,NZL,G,Seleção
+NZL11,Nova Zelândia,NZL,G,Seleção
+NZL12,Nova Zelândia,NZL,G,Seleção
+NZL13,Nova Zelândia,NZL,G,Seleção
+NZL14,Nova Zelândia,NZL,G,Seleção
+NZL15,Nova Zelândia,NZL,G,Seleção
+NZL16,Nova Zelândia,NZL,G,Seleção
+NZL17,Nova Zelândia,NZL,G,Seleção
+NZL18,Nova Zelândia,NZL,G,Seleção
+NZL19,Nova Zelândia,NZL,G,Seleção
+NZL20,Nova Zelândia,NZL,G,Seleção
+ESP01,Espanha,ESP,H,Seleção
+ESP02,Espanha,ESP,H,Seleção
+ESP03,Espanha,ESP,H,Seleção
+ESP04,Espanha,ESP,H,Seleção
+ESP05,Espanha,ESP,H,Seleção
+ESP06,Espanha,ESP,H,Seleção
+ESP07,Espanha,ESP,H,Seleção
+ESP08,Espanha,ESP,H,Seleção
+ESP09,Espanha,ESP,H,Seleção
+ESP10,Espanha,ESP,H,Seleção
+ESP11,Espanha,ESP,H,Seleção
+ESP12,Espanha,ESP,H,Seleção
+ESP13,Espanha,ESP,H,Seleção
+ESP14,Espanha,ESP,H,Seleção
+ESP15,Espanha,ESP,H,Seleção
+ESP16,Espanha,ESP,H,Seleção
+ESP17,Espanha,ESP,H,Seleção
+ESP18,Espanha,ESP,H,Seleção
+ESP19,Espanha,ESP,H,Seleção
+ESP20,Espanha,ESP,H,Seleção
+CPV01,Cabo Verde,CPV,H,Seleção
+CPV02,Cabo Verde,CPV,H,Seleção
+CPV03,Cabo Verde,CPV,H,Seleção
+CPV04,Cabo Verde,CPV,H,Seleção
+CPV05,Cabo Verde,CPV,H,Seleção
+CPV06,Cabo Verde,CPV,H,Seleção
+CPV07,Cabo Verde,CPV,H,Seleção
+CPV08,Cabo Verde,CPV,H,Seleção
+CPV09,Cabo Verde,CPV,H,Seleção
+CPV10,Cabo Verde,CPV,H,Seleção
+CPV11,Cabo Verde,CPV,H,Seleção
+CPV12,Cabo Verde,CPV,H,Seleção
+CPV13,Cabo Verde,CPV,H,Seleção
+CPV14,Cabo Verde,CPV,H,Seleção
+CPV15,Cabo Verde,CPV,H,Seleção
+CPV16,Cabo Verde,CPV,H,Seleção
+CPV17,Cabo Verde,CPV,H,Seleção
+CPV18,Cabo Verde,CPV,H,Seleção
+CPV19,Cabo Verde,CPV,H,Seleção
+CPV20,Cabo Verde,CPV,H,Seleção
+KSA01,Arábia Saudita,KSA,H,Seleção
+KSA02,Arábia Saudita,KSA,H,Seleção
+KSA03,Arábia Saudita,KSA,H,Seleção
+KSA04,Arábia Saudita,KSA,H,Seleção
+KSA05,Arábia Saudita,KSA,H,Seleção
+KSA06,Arábia Saudita,KSA,H,Seleção
+KSA07,Arábia Saudita,KSA,H,Seleção
+KSA08,Arábia Saudita,KSA,H,Seleção
+KSA09,Arábia Saudita,KSA,H,Seleção
+KSA10,Arábia Saudita,KSA,H,Seleção
+KSA11,Arábia Saudita,KSA,H,Seleção
+KSA12,Arábia Saudita,KSA,H,Seleção
+KSA13,Arábia Saudita,KSA,H,Seleção
+KSA14,Arábia Saudita,KSA,H,Seleção
+KSA15,Arábia Saudita,KSA,H,Seleção
+KSA16,Arábia Saudita,KSA,H,Seleção
+KSA17,Arábia Saudita,KSA,H,Seleção
+KSA18,Arábia Saudita,KSA,H,Seleção
+KSA19,Arábia Saudita,KSA,H,Seleção
+KSA20,Arábia Saudita,KSA,H,Seleção
+URU01,Uruguai,URU,H,Seleção
+URU02,Uruguai,URU,H,Seleção
+URU03,Uruguai,URU,H,Seleção
+URU04,Uruguai,URU,H,Seleção
+URU05,Uruguai,URU,H,Seleção
+URU06,Uruguai,URU,H,Seleção
+URU07,Uruguai,URU,H,Seleção
+URU08,Uruguai,URU,H,Seleção
+URU09,Uruguai,URU,H,Seleção
+URU10,Uruguai,URU,H,Seleção
+URU11,Uruguai,URU,H,Seleção
+URU12,Uruguai,URU,H,Seleção
+URU13,Uruguai,URU,H,Seleção
+URU14,Uruguai,URU,H,Seleção
+URU15,Uruguai,URU,H,Seleção
+URU16,Uruguai,URU,H,Seleção
+URU17,Uruguai,URU,H,Seleção
+URU18,Uruguai,URU,H,Seleção
+URU19,Uruguai,URU,H,Seleção
+URU20,Uruguai,URU,H,Seleção
+FRA01,França,FRA,I,Seleção
+FRA02,França,FRA,I,Seleção
+FRA03,França,FRA,I,Seleção
+FRA04,França,FRA,I,Seleção
+FRA05,França,FRA,I,Seleção
+FRA06,França,FRA,I,Seleção
+FRA07,França,FRA,I,Seleção
+FRA08,França,FRA,I,Seleção
+FRA09,França,FRA,I,Seleção
+FRA10,França,FRA,I,Seleção
+FRA11,França,FRA,I,Seleção
+FRA12,França,FRA,I,Seleção
+FRA13,França,FRA,I,Seleção
+FRA14,França,FRA,I,Seleção
+FRA15,França,FRA,I,Seleção
+FRA16,França,FRA,I,Seleção
+FRA17,França,FRA,I,Seleção
+FRA18,França,FRA,I,Seleção
+FRA19,França,FRA,I,Seleção
+FRA20,França,FRA,I,Seleção
+SEN01,Senegal,SEN,I,Seleção
+SEN02,Senegal,SEN,I,Seleção
+SEN03,Senegal,SEN,I,Seleção
+SEN04,Senegal,SEN,I,Seleção
+SEN05,Senegal,SEN,I,Seleção
+SEN06,Senegal,SEN,I,Seleção
+SEN07,Senegal,SEN,I,Seleção
+SEN08,Senegal,SEN,I,Seleção
+SEN09,Senegal,SEN,I,Seleção
+SEN10,Senegal,SEN,I,Seleção
+SEN11,Senegal,SEN,I,Seleção
+SEN12,Senegal,SEN,I,Seleção
+SEN13,Senegal,SEN,I,Seleção
+SEN14,Senegal,SEN,I,Seleção
+SEN15,Senegal,SEN,I,Seleção
+SEN16,Senegal,SEN,I,Seleção
+SEN17,Senegal,SEN,I,Seleção
+SEN18,Senegal,SEN,I,Seleção
+SEN19,Senegal,SEN,I,Seleção
+SEN20,Senegal,SEN,I,Seleção
+IRQ01,Iraque,IRQ,I,Seleção
+IRQ02,Iraque,IRQ,I,Seleção
+IRQ03,Iraque,IRQ,I,Seleção
+IRQ04,Iraque,IRQ,I,Seleção
+IRQ05,Iraque,IRQ,I,Seleção
+IRQ06,Iraque,IRQ,I,Seleção
+IRQ07,Iraque,IRQ,I,Seleção
+IRQ08,Iraque,IRQ,I,Seleção
+IRQ09,Iraque,IRQ,I,Seleção
+IRQ10,Iraque,IRQ,I,Seleção
+IRQ11,Iraque,IRQ,I,Seleção
+IRQ12,Iraque,IRQ,I,Seleção
+IRQ13,Iraque,IRQ,I,Seleção
+IRQ14,Iraque,IRQ,I,Seleção
+IRQ15,Iraque,IRQ,I,Seleção
+IRQ16,Iraque,IRQ,I,Seleção
+IRQ17,Iraque,IRQ,I,Seleção
+IRQ18,Iraque,IRQ,I,Seleção
+IRQ19,Iraque,IRQ,I,Seleção
+IRQ20,Iraque,IRQ,I,Seleção
+NOR01,Noruega,NOR,I,Seleção
+NOR02,Noruega,NOR,I,Seleção
+NOR03,Noruega,NOR,I,Seleção
+NOR04,Noruega,NOR,I,Seleção
+NOR05,Noruega,NOR,I,Seleção
+NOR06,Noruega,NOR,I,Seleção
+NOR07,Noruega,NOR,I,Seleção
+NOR08,Noruega,NOR,I,Seleção
+NOR09,Noruega,NOR,I,Seleção
+NOR10,Noruega,NOR,I,Seleção
+NOR11,Noruega,NOR,I,Seleção
+NOR12,Noruega,NOR,I,Seleção
+NOR13,Noruega,NOR,I,Seleção
+NOR14,Noruega,NOR,I,Seleção
+NOR15,Noruega,NOR,I,Seleção
+NOR16,Noruega,NOR,I,Seleção
+NOR17,Noruega,NOR,I,Seleção
+NOR18,Noruega,NOR,I,Seleção
+NOR19,Noruega,NOR,I,Seleção
+NOR20,Noruega,NOR,I,Seleção
+ARG01,Argentina,ARG,J,Seleção
+ARG02,Argentina,ARG,J,Seleção
+ARG03,Argentina,ARG,J,Seleção
+ARG04,Argentina,ARG,J,Seleção
+ARG05,Argentina,ARG,J,Seleção
+ARG06,Argentina,ARG,J,Seleção
+ARG07,Argentina,ARG,J,Seleção
+ARG08,Argentina,ARG,J,Seleção
+ARG09,Argentina,ARG,J,Seleção
+ARG10,Argentina,ARG,J,Seleção
+ARG11,Argentina,ARG,J,Seleção
+ARG12,Argentina,ARG,J,Seleção
+ARG13,Argentina,ARG,J,Seleção
+ARG14,Argentina,ARG,J,Seleção
+ARG15,Argentina,ARG,J,Seleção
+ARG16,Argentina,ARG,J,Seleção
+ARG17,Argentina,ARG,J,Seleção
+ARG18,Argentina,ARG,J,Seleção
+ARG19,Argentina,ARG,J,Seleção
+ARG20,Argentina,ARG,J,Seleção
+ALG01,Argélia,ALG,J,Seleção
+ALG02,Argélia,ALG,J,Seleção
+ALG03,Argélia,ALG,J,Seleção
+ALG04,Argélia,ALG,J,Seleção
+ALG05,Argélia,ALG,J,Seleção
+ALG06,Argélia,ALG,J,Seleção
+ALG07,Argélia,ALG,J,Seleção
+ALG08,Argélia,ALG,J,Seleção
+ALG09,Argélia,ALG,J,Seleção
+ALG10,Argélia,ALG,J,Seleção
+ALG11,Argélia,ALG,J,Seleção
+ALG12,Argélia,ALG,J,Seleção
+ALG13,Argélia,ALG,J,Seleção
+ALG14,Argélia,ALG,J,Seleção
+ALG15,Argélia,ALG,J,Seleção
+ALG16,Argélia,ALG,J,Seleção
+ALG17,Argélia,ALG,J,Seleção
+ALG18,Argélia,ALG,J,Seleção
+ALG19,Argélia,ALG,J,Seleção
+ALG20,Argélia,ALG,J,Seleção
+AUT01,Áustria,AUT,J,Seleção
+AUT02,Áustria,AUT,J,Seleção
+AUT03,Áustria,AUT,J,Seleção
+AUT04,Áustria,AUT,J,Seleção
+AUT05,Áustria,AUT,J,Seleção
+AUT06,Áustria,AUT,J,Seleção
+AUT07,Áustria,AUT,J,Seleção
+AUT08,Áustria,AUT,J,Seleção
+AUT09,Áustria,AUT,J,Seleção
+AUT10,Áustria,AUT,J,Seleção
+AUT11,Áustria,AUT,J,Seleção
+AUT12,Áustria,AUT,J,Seleção
+AUT13,Áustria,AUT,J,Seleção
+AUT14,Áustria,AUT,J,Seleção
+AUT15,Áustria,AUT,J,Seleção
+AUT16,Áustria,AUT,J,Seleção
+AUT17,Áustria,AUT,J,Seleção
+AUT18,Áustria,AUT,J,Seleção
+AUT19,Áustria,AUT,J,Seleção
+AUT20,Áustria,AUT,J,Seleção
+JOR01,Jordânia,JOR,J,Seleção
+JOR02,Jordânia,JOR,J,Seleção
+JOR03,Jordânia,JOR,J,Seleção
+JOR04,Jordânia,JOR,J,Seleção
+JOR05,Jordânia,JOR,J,Seleção
+JOR06,Jordânia,JOR,J,Seleção
+JOR07,Jordânia,JOR,J,Seleção
+JOR08,Jordânia,JOR,J,Seleção
+JOR09,Jordânia,JOR,J,Seleção
+JOR10,Jordânia,JOR,J,Seleção
+JOR11,Jordânia,JOR,J,Seleção
+JOR12,Jordânia,JOR,J,Seleção
+JOR13,Jordânia,JOR,J,Seleção
+JOR14,Jordânia,JOR,J,Seleção
+JOR15,Jordânia,JOR,J,Seleção
+JOR16,Jordânia,JOR,J,Seleção
+JOR17,Jordânia,JOR,J,Seleção
+JOR18,Jordânia,JOR,J,Seleção
+JOR19,Jordânia,JOR,J,Seleção
+JOR20,Jordânia,JOR,J,Seleção
+POR01,Portugal,POR,K,Seleção
+POR02,Portugal,POR,K,Seleção
+POR03,Portugal,POR,K,Seleção
+POR04,Portugal,POR,K,Seleção
+POR05,Portugal,POR,K,Seleção
+POR06,Portugal,POR,K,Seleção
+POR07,Portugal,POR,K,Seleção
+POR08,Portugal,POR,K,Seleção
+POR09,Portugal,POR,K,Seleção
+POR10,Portugal,POR,K,Seleção
+POR11,Portugal,POR,K,Seleção
+POR12,Portugal,POR,K,Seleção
+POR13,Portugal,POR,K,Seleção
+POR14,Portugal,POR,K,Seleção
+POR15,Portugal,POR,K,Seleção
+POR16,Portugal,POR,K,Seleção
+POR17,Portugal,POR,K,Seleção
+POR18,Portugal,POR,K,Seleção
+POR19,Portugal,POR,K,Seleção
+POR20,Portugal,POR,K,Seleção
+COD01,Congo,COD,K,Seleção
+COD02,Congo,COD,K,Seleção
+COD03,Congo,COD,K,Seleção
+COD04,Congo,COD,K,Seleção
+COD05,Congo,COD,K,Seleção
+COD06,Congo,COD,K,Seleção
+COD07,Congo,COD,K,Seleção
+COD08,Congo,COD,K,Seleção
+COD09,Congo,COD,K,Seleção
+COD10,Congo,COD,K,Seleção
+COD11,Congo,COD,K,Seleção
+COD12,Congo,COD,K,Seleção
+COD13,Congo,COD,K,Seleção
+COD14,Congo,COD,K,Seleção
+COD15,Congo,COD,K,Seleção
+COD16,Congo,COD,K,Seleção
+COD17,Congo,COD,K,Seleção
+COD18,Congo,COD,K,Seleção
+COD19,Congo,COD,K,Seleção
+COD20,Congo,COD,K,Seleção
+UZB01,Uzbequistão,UZB,K,Seleção
+UZB02,Uzbequistão,UZB,K,Seleção
+UZB03,Uzbequistão,UZB,K,Seleção
+UZB04,Uzbequistão,UZB,K,Seleção
+UZB05,Uzbequistão,UZB,K,Seleção
+UZB06,Uzbequistão,UZB,K,Seleção
+UZB07,Uzbequistão,UZB,K,Seleção
+UZB08,Uzbequistão,UZB,K,Seleção
+UZB09,Uzbequistão,UZB,K,Seleção
+UZB10,Uzbequistão,UZB,K,Seleção
+UZB11,Uzbequistão,UZB,K,Seleção
+UZB12,Uzbequistão,UZB,K,Seleção
+UZB13,Uzbequistão,UZB,K,Seleção
+UZB14,Uzbequistão,UZB,K,Seleção
+UZB15,Uzbequistão,UZB,K,Seleção
+UZB16,Uzbequistão,UZB,K,Seleção
+UZB17,Uzbequistão,UZB,K,Seleção
+UZB18,Uzbequistão,UZB,K,Seleção
+UZB19,Uzbequistão,UZB,K,Seleção
+UZB20,Uzbequistão,UZB,K,Seleção
+COL01,Colômbia,COL,K,Seleção
+COL02,Colômbia,COL,K,Seleção
+COL03,Colômbia,COL,K,Seleção
+COL04,Colômbia,COL,K,Seleção
+COL05,Colômbia,COL,K,Seleção
+COL06,Colômbia,COL,K,Seleção
+COL07,Colômbia,COL,K,Seleção
+COL08,Colômbia,COL,K,Seleção
+COL09,Colômbia,COL,K,Seleção
+COL10,Colômbia,COL,K,Seleção
+COL11,Colômbia,COL,K,Seleção
+COL12,Colômbia,COL,K,Seleção
+COL13,Colômbia,COL,K,Seleção
+COL14,Colômbia,COL,K,Seleção
+COL15,Colômbia,COL,K,Seleção
+COL16,Colômbia,COL,K,Seleção
+COL17,Colômbia,COL,K,Seleção
+COL18,Colômbia,COL,K,Seleção
+COL19,Colômbia,COL,K,Seleção
+COL20,Colômbia,COL,K,Seleção
+ENG01,Inglaterra,ENG,L,Seleção
+ENG02,Inglaterra,ENG,L,Seleção
+ENG03,Inglaterra,ENG,L,Seleção
+ENG04,Inglaterra,ENG,L,Seleção
+ENG05,Inglaterra,ENG,L,Seleção
+ENG06,Inglaterra,ENG,L,Seleção
+ENG07,Inglaterra,ENG,L,Seleção
+ENG08,Inglaterra,ENG,L,Seleção
+ENG09,Inglaterra,ENG,L,Seleção
+ENG10,Inglaterra,ENG,L,Seleção
+ENG11,Inglaterra,ENG,L,Seleção
+ENG12,Inglaterra,ENG,L,Seleção
+ENG13,Inglaterra,ENG,L,Seleção
+ENG14,Inglaterra,ENG,L,Seleção
+ENG15,Inglaterra,ENG,L,Seleção
+ENG16,Inglaterra,ENG,L,Seleção
+ENG17,Inglaterra,ENG,L,Seleção
+ENG18,Inglaterra,ENG,L,Seleção
+ENG19,Inglaterra,ENG,L,Seleção
+ENG20,Inglaterra,ENG,L,Seleção
+CRO01,Croácia,CRO,L,Seleção
+CRO02,Croácia,CRO,L,Seleção
+CRO03,Croácia,CRO,L,Seleção
+CRO04,Croácia,CRO,L,Seleção
+CRO05,Croácia,CRO,L,Seleção
+CRO06,Croácia,CRO,L,Seleção
+CRO07,Croácia,CRO,L,Seleção
+CRO08,Croácia,CRO,L,Seleção
+CRO09,Croácia,CRO,L,Seleção
+CRO10,Croácia,CRO,L,Seleção
+CRO11,Croácia,CRO,L,Seleção
+CRO12,Croácia,CRO,L,Seleção
+CRO13,Croácia,CRO,L,Seleção
+CRO14,Croácia,CRO,L,Seleção
+CRO15,Croácia,CRO,L,Seleção
+CRO16,Croácia,CRO,L,Seleção
+CRO17,Croácia,CRO,L,Seleção
+CRO18,Croácia,CRO,L,Seleção
+CRO19,Croácia,CRO,L,Seleção
+CRO20,Croácia,CRO,L,Seleção
+GHA01,Gana,GHA,L,Seleção
+GHA02,Gana,GHA,L,Seleção
+GHA03,Gana,GHA,L,Seleção
+GHA04,Gana,GHA,L,Seleção
+GHA05,Gana,GHA,L,Seleção
+GHA06,Gana,GHA,L,Seleção
+GHA07,Gana,GHA,L,Seleção
+GHA08,Gana,GHA,L,Seleção
+GHA09,Gana,GHA,L,Seleção
+GHA10,Gana,GHA,L,Seleção
+GHA11,Gana,GHA,L,Seleção
+GHA12,Gana,GHA,L,Seleção
+GHA13,Gana,GHA,L,Seleção
+GHA14,Gana,GHA,L,Seleção
+GHA15,Gana,GHA,L,Seleção
+GHA16,Gana,GHA,L,Seleção
+GHA17,Gana,GHA,L,Seleção
+GHA18,Gana,GHA,L,Seleção
+GHA19,Gana,GHA,L,Seleção
+GHA20,Gana,GHA,L,Seleção
+PAN01,Panamá,PAN,L,Seleção
+PAN02,Panamá,PAN,L,Seleção
+PAN03,Panamá,PAN,L,Seleção
+PAN04,Panamá,PAN,L,Seleção
+PAN05,Panamá,PAN,L,Seleção
+PAN06,Panamá,PAN,L,Seleção
+PAN07,Panamá,PAN,L,Seleção
+PAN08,Panamá,PAN,L,Seleção
+PAN09,Panamá,PAN,L,Seleção
+PAN10,Panamá,PAN,L,Seleção
+PAN11,Panamá,PAN,L,Seleção
+PAN12,Panamá,PAN,L,Seleção
+PAN13,Panamá,PAN,L,Seleção
+PAN14,Panamá,PAN,L,Seleção
+PAN15,Panamá,PAN,L,Seleção
+PAN16,Panamá,PAN,L,Seleção
+PAN17,Panamá,PAN,L,Seleção
+PAN18,Panamá,PAN,L,Seleção
+PAN19,Panamá,PAN,L,Seleção
+PAN20,Panamá,PAN,L,Seleção
+FWC9,FIFA World Cup History,FWC,Especial,História
+FWC10,FIFA World Cup History,FWC,Especial,História
+FWC11,FIFA World Cup History,FWC,Especial,História
+FWC12,FIFA World Cup History,FWC,Especial,História
+FWC13,FIFA World Cup History,FWC,Especial,História
+FWC14,FIFA World Cup History,FWC,Especial,História
+FWC15,FIFA World Cup History,FWC,Especial,História
+FWC16,FIFA World Cup History,FWC,Especial,História
+FWC17,FIFA World Cup History,FWC,Especial,História
+FWC18,FIFA World Cup History,FWC,Especial,História
+FWC19,FIFA World Cup History,FWC,Especial,História
+CC1,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC2,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC3,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC4,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC5,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC6,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC7,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC8,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC9,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC10,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC11,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC12,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC13,Figurinhas Coca-Cola,CC,Especial,Patrocinador
+CC14,Figurinhas Coca-Cola,CC,Especial,Patrocinador
